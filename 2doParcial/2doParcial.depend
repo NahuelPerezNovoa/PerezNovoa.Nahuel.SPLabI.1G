@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1606524876 source:c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\2doparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"Paises.h"
+	"Controller.h"
+	"Parser.h"
+
+1606523728 c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\2doparcial\linkedlist.h
+
+1606524432 c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\2doparcial\paises.h
+
+1606522119 c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\2doparcial\controller.h
+
+1606525501 source:c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\2doparcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"Paises.h"
+	"Controller.h"
+	"Parser.h"
+
+1606525457 source:c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\2doparcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"Paises.h"
+	"Controller.h"
+	"Parser.h"
+
+1606524762 source:c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\2doparcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"Paises.h"
+	"Controller.h"
+	"Parser.h"
+
+1606522169 c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\2doparcial\parser.h
+
+1606525230 source:c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\2doparcial\paises.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"Paises.h"
+	"Controller.h"
+	"Parser.h"
+
